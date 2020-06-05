@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Designing4VR",
+"productVersion": "0.1",
+"dataUrl": "WebVR_TheCave_Main.data.unityweb",
+"wasmCodeUrl": "WebVR_TheCave_Main.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebVR_TheCave_Main.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a11"
+}
